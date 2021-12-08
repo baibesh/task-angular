@@ -1198,6 +1198,19 @@
       "address": "765 Whitwell Place, Keyport, Oklahoma, 2647"
     },
     {
+      "_id": "5d99beb62061d5009c894555",
+      "amount": "floating(1, 4000, 2)",
+      "type": "primer",
+      "name": {
+        "first": "MarshaR",
+        "last": "ChanR"
+      },
+      "company": "ENORMOE",
+      "email": "marsha.chan@enormo.org",
+      "phone": "+1 (829) 501-3906",
+      "address": "765 Whitwell Place, Keyport, Oklahoma, 2647"
+    },
+    {
       "_id": "5d99beb66941cc9e3e358edd",
       "amount": "floating(1, 4000, 2)",
       "type": "loan",
